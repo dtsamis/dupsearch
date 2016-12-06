@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476902870 source:c:\users\d-tsa\dropbox\c projects\dupsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<string.h>
+
